@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Directorio
+- type: directory
+  path: ''
+  label: Directorio
+  create: all
+  match: "**/*"
+- type: heading
   label: Contenido
 - type: document
   path: FORESTRY-README.md
