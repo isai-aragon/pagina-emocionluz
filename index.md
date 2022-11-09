@@ -5,7 +5,7 @@ date: 2022-11-08 00:00:00 -0600
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2022/11/09/logo_b.png"
   navigation:
   - link: "/"
     link_text: Ubuild
