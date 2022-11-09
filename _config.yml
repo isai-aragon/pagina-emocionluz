@@ -4,7 +4,7 @@ author: Isaí Aragón
 email: isai@emocionluz.com
 description: EmocionLUZ. Iluminación y Sistemas de Control Inteligente. Creamos espacios
   con Emoción a través de la LUZ.
-baseurl: "/ubuild-jekyll"
+baseurl: ''
 url: emocionluz,com
 defaults:
 - scope:
