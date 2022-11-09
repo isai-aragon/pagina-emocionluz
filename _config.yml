@@ -12,6 +12,5 @@ defaults:
   values:
     layout: default
 plugins:
-- jekyll-sitemap
 - jekyll-feed
 - jekyll-menus
