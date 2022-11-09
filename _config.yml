@@ -5,7 +5,7 @@ email: isai@emocionluz.com
 description: EmocionLUZ. Iluminación y Sistemas de Control Inteligente. Creamos espacios
   con Emoción a través de la LUZ.
 baseurl: ''
-url: emocionluz,com
+url: emocionluz.com
 defaults:
 - scope:
     path: ''
