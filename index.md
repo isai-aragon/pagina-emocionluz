@@ -1,11 +1,11 @@
 ---
 layout: blocks
 title: EmocionLUZ
-date: 2022-11-08 00:00:00 -0600
+date: 2022-11-08T00:00:00.000-06:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2022/11/09/logo_b.png"
+  logo: "/uploads/2022/11/16/logo_eluz_1.png"
   navigation:
   - link: "/"
     link_text: Ubuild
